@@ -8,6 +8,8 @@ namespace brainTraining
 {
     class Program
     {
+        /*Задание от сэнсэя: приходит строка, в данной строке необходимо заменить повторяющиеся символы на @ 
+        и на * - символы, которые не вопторяются*/
         static void Main(string[] args)
         {
             string textFirst = "qwertyfghqwert";
